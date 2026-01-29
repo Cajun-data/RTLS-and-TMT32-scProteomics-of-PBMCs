@@ -36,7 +36,7 @@ South San Francisco, California, USA
 📧 Ljiljana.PasaTolic@pnnl.gov
 
 
-![alt text](https://github.com/Cajun-data/RTLS-and-TMT32-scProteomics-of-PBMCs/blob/main/image.png)
+![alt text](https://github.com/Cajun-data/RTLS-and-TMT32-scProteomics-of-PBMCs/blob/main/scheme1.png)
 
 ## Data availability
 
