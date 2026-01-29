@@ -36,13 +36,13 @@ South San Francisco, California, USA
 📧 Ljiljana.PasaTolic@pnnl.gov
 
 
-<!--- ![alt text](https://[https://github.com/Cajun-data/RTLS-and-TMT32-scProteomics-of-PBMCs/blob/main/Scheme1.png) -->
+![alt text](https://[https://github.com/Cajun-data/RTLS-and-TMT32-scProteomics-of-PBMCs/blob/main/image.png)
 
 ## Data availability
 
 Large intermediate R objects are available at the Zenodo hosted-repo below:
 DOI: https://doi.org/10.5281/zenodo.18421672
 
-cellenONE image files for the 2,130 PBMCs are archived on Zenodo at:
+cellenONE image files for the 2,130 PBMCs are archived on Zenodo at: <br></br>
 DOI: https://doi.org/10.5281/zenodo.18421469
 
